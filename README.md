@@ -1,2 +1,3 @@
 # gitskills
-add sth
+add sth 
+use no-ff merge 
