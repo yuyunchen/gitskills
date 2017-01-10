@@ -1,3 +1,4 @@
 # gitskills
 add sth 
-use no-ff merge 
+use no-ff merge
+merge without no-ff 
